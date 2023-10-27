@@ -12,7 +12,9 @@
     "hpp": "^0.2.3",
     "jsonwebtoken": "^9.0.2",
     "moment": "^2.29.4",
-    "mongoose": "^7.6.3"
+    "mongoose": "^7.6.3",
+    "node-sass": "^9.0.0",
+    "sass-loader": "^13.3.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.23.0",

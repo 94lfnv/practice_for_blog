@@ -3,6 +3,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { CLEAR_ERROR_REQUEST, REGISTER_REQUEST } from "../../redux/types";
 import {
   Alert,
+  Button,
   Form,
   FormGroup,
   Input,
